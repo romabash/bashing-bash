@@ -8,6 +8,7 @@ read -p "How old are you? " age
 
 #-eq: equals, -ne: not equal, -le: less than or equal
 #-lt: less than, -ge: greater or equal, -gt greater than
+#-lt, -le, -eq, -gt, -ge, -ne
 
 if [ $age -ge 16 ]; then # -ge greater than or equal to
   echo "You can drive"

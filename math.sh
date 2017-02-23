@@ -24,6 +24,11 @@ number=5
 let number+=4
 echo "adding 4 to number using let operator is: $number"
 
+number2=5
+echo "number2 is $number2"
+let number2+=4
+echo "After adding 4 to number2, number2 is :  $number2"
+
 #Incrementing by one with $((++variable))
 echo "$((++number))"
 echo "$number"

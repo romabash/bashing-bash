@@ -16,7 +16,7 @@ rows=$(tput lines) #how many lines/rows terminal has
 
 
 #--------------------------------------
-# Display the script's argument in the middle of the terminal
+# Display message in the middle of the terminal
 #--------------------------------------
 
 #Message to display

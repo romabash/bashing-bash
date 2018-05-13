@@ -3,6 +3,7 @@
 
 #--------------------------------------
 # Backs up a single project directory
+# Provide a directory as an argument
 # First check to see if the directory exists 
 #--------------------------------------
 
